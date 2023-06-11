@@ -24,7 +24,22 @@
 > 6. 集合 `set = {"Sandy", "Lucy", "Tim"}`
 > 7. 字典 `dic = {"apple":"苹果", "banana":"香蕉"}`
 2. 运算符
-2. 控制语句：if、match、while等
+> 参考: https://www.runoob.com/python3/python3-basic-operators.html#ysf6
+> 1. 算术运算符
+> 2. 比较（关系）运算符
+> 3. 赋值运算符
+> 4. 逻辑运算符
+> 5. 位运算符(这个不讲)
+> 6. 成员运算符
+> 7. 身份运算符 
+
+
+3. 控制语句：if、match、while等
+> 1. if语句
+> 2. while语句
+> 3. match语句
+
+4. 如何遍历列表、集合、字典
 
 
 #### 第三节：函数
