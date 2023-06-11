@@ -52,7 +52,8 @@
 
 2. 自定义函数
 
-#### 第四节：模块
+#### 第四节：模块(库)
+* 参考: https://www.runoob.com/python3/python3-stdlib.html
 1. 什么是模块
 2. 如何使用python提供的强大的第三方模块
 3. 如何自己写模块
