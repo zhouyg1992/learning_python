@@ -16,13 +16,13 @@
 
 #### 第三节：Python基础
 1. 数据类型 【done】
-> 1.数字
-> 2. 字符串 str = "hello world!"
-> 3. 布尔类型 isTrue = True
-> 4. 列表 list = ["apple", "banana"]
-> 5. 元组 tuple = ("上午", "下午", "晚上")
-> 6. 集合 set = {"Sandy", "Lucy", "Tim"}
-> 7. 字典 dic = {"apple":"苹果", "banana":"香蕉"}
+> 1. 数字 `num = 18`
+> 2. 字符串 `str = "hello world!"`
+> 3. 布尔类型 `isTrue = True`
+> 4. 列表 `list = ["apple", "banana"]`
+> 5. 元组 `tuple = ("上午", "下午", "晚上")`
+> 6. 集合 `set = {"Sandy", "Lucy", "Tim"}`
+> 7. 字典 `dic = {"apple":"苹果", "banana":"香蕉"}`
 2. 运算符
 2. 控制语句：if、match、while等
 
